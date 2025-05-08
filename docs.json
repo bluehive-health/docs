@@ -7,7 +7,7 @@
     "light": "#27aae1",
     "dark": "#27aae1"
   },
-  "favicon": "https://bluehive.com/wp-content/uploads/2023/02/BlueHive-Blue.png",
+  "favicon": "favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -38,8 +38,8 @@
     }
   },
   "logo": {
-    "light": "https://bluehive.com/wp-content/uploads/2023/02/BlueHive-Full.png",
-    "dark": "https://bluehive.com/wp-content/uploads/2023/02/BlueHive-Full.png"
+    "light": "/images/bluehive-logo.svg",
+    "dark": "/images/bluehive-logo.svg"
   },
   "navbar": {
     "links": [
