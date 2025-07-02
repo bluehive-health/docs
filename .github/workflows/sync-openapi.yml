@@ -1,13 +1,13 @@
 ---
 name: Sync OpenAPI Documentation
 
-on:
+"on":
   # Run daily at 6 AM UTC
   schedule:
     - cron: '0 6 * * *'
 
   # Allow manual trigger
-  workflow_dispatch:
+  workflow_dispatch: {}
 
   # Run on pushes to main for testing
   push:
