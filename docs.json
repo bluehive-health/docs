@@ -12,7 +12,7 @@
     "tabs": [
       {
         "tab": "API Reference",
-        "openapi": "https://api.bluehive.com/docs/json"
+        "openapi": "https://app.stainless.com/api/spec/documented/bluehive/openapi.documented.yml"
       },
       {
         "tab": "Guides",
