@@ -11,6 +11,10 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "API Reference",
+        "openapi": "https://api.bluehive.com/docs/json"
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
